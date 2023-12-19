@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\bin\Debug\tiyatrooooo.exe.config
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\bin\Debug\tiyatrooooo.exe
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\bin\Debug\tiyatrooooo.pdb
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.Form1.resources
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.Properties.Resources.resources
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.exe
+C:\Users\User\source\repos\tiyatrooooo\tiyatrooooo\obj\Debug\tiyatrooooo.pdb
